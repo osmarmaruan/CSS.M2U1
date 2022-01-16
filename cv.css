@@ -1,0 +1,40 @@
+h1{
+    font-family: 'Bangers', cursive;
+    color: rgb(0, 41, 66);
+    font-size: 60px;
+}
+h2{
+    font-family: 'Bangers', cursive;
+    color: rgb(0, 41, 66);
+    font-size: 35px;
+}
+body{
+
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("img/fondo-telarana.jpg");
+   
+}
+p{
+    font-size: 20px;
+    color: rgb(155, 0, 0);
+    width: 500px;
+    margin-left: 700px;
+
+}
+
+ul{
+    font-size: 20px;
+    color: rgb(155, 0, 0);
+}
+div{
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(107,159,255,0.5466561624649859) 100%);
+    border-radius: 30px;
+}
+.icono{
+    font-size: 50px;
+}
+img{
+    border-radius: 25px;
+}
